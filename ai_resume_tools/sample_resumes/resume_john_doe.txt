@@ -1,0 +1,10 @@
+John Doe
+Software Engineer
+
+Experience:
+- Developed web applications in Python and JavaScript.
+- Worked extensively with Python, Django, Flask.
+
+Skills: Python, Django, Flask, SQL, Git
+
+Education: B.Sc. Computer Science

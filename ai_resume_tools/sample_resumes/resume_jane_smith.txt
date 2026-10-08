@@ -1,0 +1,10 @@
+Jane Smith
+Data Scientist
+
+Experience:
+- Built ML models using Python and scikit-learn.
+- Experience with data cleaning, feature engineering.
+
+Skills: Python, Pandas, NumPy, scikit-learn, SQL
+
+Education: M.Sc. Data Science

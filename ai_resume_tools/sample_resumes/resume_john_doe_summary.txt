@@ -1,0 +1,10 @@
+Resume Summary: John Doe
+Current role: Software Engineer
+
+Key skills: Python, Django, Flask, SQL, Git
+
+Highlights:
+- Experience:
+- - Developed web applications in Python and JavaScript.
+
+Source file: C:\Users\saura\IdeaProjects\ShellyGit\LLMFileManagement\ai_resume_tools\sample_resumes\resume_john_doe.txt
