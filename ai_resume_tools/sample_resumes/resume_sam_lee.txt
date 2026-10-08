@@ -1,0 +1,10 @@
+Sam Lee
+DevOps Engineer
+
+Experience:
+- CI/CD pipelines, infrastructure automation.
+- Experience with AWS and Terraform.
+
+Skills: AWS, Terraform, Docker, Python
+
+Education: B.Sc. Information Systems

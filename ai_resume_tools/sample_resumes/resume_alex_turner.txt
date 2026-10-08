@@ -1,0 +1,10 @@
+Alex Turner
+Backend Developer
+
+Experience:
+- Backend services in Java and Python.
+- REST API development, microservices.
+
+Skills: Java, Spring, Python, Docker, Kubernetes
+
+Education: B.Eng. Software Engineering

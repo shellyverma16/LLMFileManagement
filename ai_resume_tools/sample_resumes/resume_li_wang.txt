@@ -1,0 +1,10 @@
+Li Wang
+Machine Learning Engineer
+
+Experience:
+- Production ML pipelines, model deployment.
+- Worked with TensorFlow and PyTorch.
+
+Skills: Python, TensorFlow, PyTorch, Docker
+
+Education: Ph.D. Computer Science

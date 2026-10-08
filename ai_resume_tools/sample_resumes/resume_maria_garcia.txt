@@ -1,0 +1,10 @@
+Maria Garcia
+Frontend Engineer
+
+Experience:
+- Built responsive UI with React and TypeScript.
+- Collaborated with designers to improve UX.
+
+Skills: JavaScript, React, TypeScript, CSS
+
+Education: B.A. Interaction Design
